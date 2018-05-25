@@ -6,4 +6,5 @@
 
 * 工具系列
   * [Atom—无响应及包源更换](https://github.com/pengxian/blog/issues/1)
+  * [Git-GitFlow](https://github.com/pengxian/blog/issues/2)
 * Go语言
